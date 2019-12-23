@@ -7,7 +7,7 @@ The dataset used is USDA NAIP imagery. Pre-processed the data to get a sample of
 USDA - United States Department of Agriculture
 NAIP - National Agriculture Imagery Program
 
-# How to Run
+## How to Run
 Once you download the images from the link. Run the 'augment_data.py' file to generate additional images using data augmentation.
 Open ResNet or VGG folder to run the model of your choice and execute the 'train.py' file.
 When the code finishes execution it will generate a model.h5 file.
